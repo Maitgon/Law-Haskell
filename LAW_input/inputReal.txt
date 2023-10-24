@@ -1,0 +1,68 @@
+Input 1.
+
+Number of seats:
+350
+
+Parties:
+0 : PSOE
+1 : PSC
+2 : PP
+3 : Vox
+4 : Unidas Podemos
+5 : En comú Podem
+6 : Galicia en Común
+7 : ERC
+8 : Sobiranistes
+9 : JxCAT
+10 : PDeCAT
+11 : Más País-Equo
+12 : Més Compromís
+13 : BNG
+14 : Ciudadanos
+15 : EAJ-PNV
+16 : EH Bildu
+17 : CUP-PR
+18 : UPN
+19 : CC-PNC
+20 : NC
+21 : PRC
+22 : TE
+23 : FORO
+
+
+
+Laws:
+c1 : Protección de los consumidores y usuarios frente a situciones de vulnerabilidad social y económica
+c2 : Refuerzo y consolidación de medidas sociales en defensa del empleo
+c3 : medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico
+c4 : medidas urgentes de apoyo a la solvencia empresarial y al sector energético, y en materia tributaria.
+c5 : medidas sociales complementarias para la protección por desempleo y de apoyo al sector cultural.
+c6 : medidas urgentes en materia de teletrabajo en las Administraciones Públicas y de recursos humanos en el Sistema Nacional de Salud para hacer frente a la crisis sanitaria ocasionada por la COVID-19
+c7 : medidas sociales en defensa del empleo
+c8 : medidas financieras, de carácter extraordinario y urgente, aplicables a las Entidades Locales
+c9 : medidas urgentes en materia de protección y asistencia a las víctimas de violencia de género
+c10 : medidas urgentes por el que se incorporan al ordenamiento jurídico español diversas directivas de la Unión Europea en el ámbito de la contratación pública en determinados sectores; de seguros privados; de planes y fondos de pensiones; del ámbito tributario y de litigios fiscales
+
+Pro:
+c1 : 0,1,4,5,6,7,8,11,12,13,15,16,17,20,21,22
+c2 : 0,1,2,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23
+c3 : 0,1,4,5,6,9,11,12,13,17,20,21,22
+c4 : 0,1,4,5,6,7,8,9,10,11,12,13,14,15,19,21,22
+c5 : 2,3,10,11,13,14,16,18,19,20,23
+c6 : 2,3,14,18,19,20,21,22,23
+c7 : 2,3,9,10,11,13,14,18,19,22,23
+c8 : 0,1,4,5,6,22
+c9 : 2,3,7,8,9,10,12,14,18,22,23
+c10 : 0,1,4,5,6,7,8,9,10,15,18,19,21,22
+
+Against:
+c1 : 2,3,14,18,19,23
+c2 : 3
+c3 : 2,3,10,14,15,18,19,23
+c4 : 3,23
+c5 : 0,1,4,5,6,7,8,9,12
+c6 : 0,1,4,5,6,7,8,9,10,11,12,13,15,16,17
+c7 : 0,1,4,5,6,7,8,12,15,16,17
+c8 : 2,3,7,8,9,10,11,12,13,14,15,16,18,19,20,21,23
+c9 : 0,1,4,5,6,11,15,19,21
+c10 : 2,3,23

@@ -1,0 +1,41 @@
+Input 1,4,7,10,14,22,25.
+
+Number of seats:
+350
+
+Parties:
+0 : GCUP-EC-GC
+1 : GCs
+2 : GEH Bildu
+3 : GP
+4 : GR
+5 : GS
+6 : GV
+7 : GVOX
+
+Laws:
+c1 : Proposición no de Ley del Grupo Parlamentario VOX, relativa a la aplicación y desarrollo del artículo 3 de la Constitución española mediante la adopción de las medidas necesarias para asegurar el deber de conocer el castellano, del derecho a usarlo y de su aplicación a las personas físicas, jurídicas y a todas las Administraciones e instituciones públicas del Reino de España.
+c2 : Real Decreto-ley 31/2020, de 29 de septiembre, por el que se adoptan medidas urgentes en el ámbito de la educación no universitaria.
+c3 : Real Decreto-ley 34/2020, de 17 de noviembre, de medidas urgentes de apoyo a la solvencia empresarial y al sector energético, y en materia tributaria.
+c4 : Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre apoyo global y urgente al sector de la hostelería española.Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Popular en el Congreso, el Grupo Parlamentario VOX y el Grupo Parlamentario Ciudadanos.
+c5 : Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico.
+c6 : Proposición no de Ley del Grupo Parlamentario VOX, relativa a medidas para garantizar la sostenibilidad ambiental en el entorno del Mar Menor.
+c7 : Proposición no de Ley del Grupo Parlamentario Socialista, sobre enfermedades raras.Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Popular en el Congreso, el Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común y el Grupo Parlamentario Ciudadanos.
+
+Pro:
+c1 : 1,7
+c2 : 0,4,5,6
+c3 : 0,1,4,5,6
+c4 : 1,3,7
+c5 : 0,5
+c6 : 7
+c7 : 0,1,2,3,4,5,6,7
+
+Against:
+c1 : 0,2,3,4,5,6
+c2 : 1,3,7
+c3 : 7
+c4 : 0,2,4,5
+c5 : 1,3,6,7
+c6 : 0,1,2,4,5,6
+c7 : 

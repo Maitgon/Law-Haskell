@@ -1,0 +1,120 @@
+Input 3.
+
+Number of seats:
+510
+
+Parties:
+0 : PSO (Partido Socialista Obrero)
+1 : PRF (Partido Regionalista de Fuenlabrada)
+2 : JA (Juntos Por Alcorcon)
+3 : ACO (Asociación de Comunistas Ociosos)
+4 : GLI (Gamusinos Libres de Impuestos)
+5 : QCT (Queremos Comer Torrijas)
+6 : APF (Adoradores de las Patatas Fritas)
+7 : UPC (Unidas Podremos Comer)
+8 : VOS (Violenta Organizacion a favor del Salmorejo)
+9 : ALI (Alcazar Libre e Independiente)
+10 : UMI (Union de Malas Ideas)
+11 : GTC (me Gusta la Tortilla con Cebolla)
+12 : QLM (Queremos Leer Manga)
+13 : NPM (Nuevo Partido Musical)
+14 : POM (Partido de Odio a las Mates)
+15 : UDyP (Universidades Duras y Peligrosas)
+16 : AEE (Asociacion de Estadisticos Enfurecidos)
+17 : NGP (No nos Gusta la Paella)
+
+Laws:
+c1 : Subir sueldo a profesores
+c2 : Bajar sueldo a profesores
+c3 : Crear mas academias de matematicas
+c4 : Aumentar el pienso a los perros
+c5 : Crear una playa en Madrid
+c6 : Aumentar la cantidad de bibliotecas
+c7 : Legalizar las chuletas
+c8 : Cambiar las siglas RAE por ARE
+c9 : Ilegalizar copiar en examenes
+c10 : Paga extra en navidad
+c11 : Suministro escolar gratuito
+c12 : Los lunes son fiesta
+c13 : Crear mas academias de informatica
+c14 : Ilegalizar la estadistica
+c15 : Crear talleres de torrijas
+c16 : Darle a Fuenlabrada muchas patatas fritas
+c17 : Darle a Fuenlabrada muchas torrijas
+c18 : Protección judicial de los derechos a la mujer
+c19 : Plan de rescate ciudadano centrado en la creación de empleo decente en los países del sur de Europa
+c20 : Comer patatas
+c21 : Dar a los ciudadanos muchos libros
+c22 : Ayudar a nuestras abuelas
+c23 : Convertir el arroz en monumento nacional
+c24 : Ilegalizar la leche de avena
+c25 : Desayunar que tengo hambre
+c26 : Arreglar los cascos del pueblo
+c27 : Conseguir narajas verdes
+c28 : Construir una playa en Madrid
+c29 : Acceder a la impresora online del despacho de al lado
+c30 : Comerse unas tostadas
+
+Pro:
+c1 : 4,8,10
+c2 : 6,13,17
+c3 : 0,7,14
+c4 : 2,8,11
+c5 : 0,1,2
+c6 : 2,10,15
+c7 : 3,10,13
+c8 : 7,11,12
+c9 : 6,9,10
+c10 : 4,6,7
+c11 : 0,11,14
+c12 : 10,11,12
+c13 : 14,15,16
+c14 : 8,10,14
+c15 : 2,15,16
+c16 : 3,5,8
+c17 : 2,9,11
+c18 : 7,8,9
+c19 : 4,11,14
+c20 : 2,8,12
+c21 : 6,12,13
+c22 : 7,12,13
+c23 : 0,6,10
+c24 : 3,8,10
+c25 : 3,6,7
+c26 : 1,10,17
+c27 : 3,5,8
+c28 : 0,14,15
+c29 : 1,12,16
+c30 : 2,3,13
+
+Against:
+c1 : 2,7,13
+c2 : 1,15,2
+c3 : 2,8,12
+c4 : 4,6,15
+c5 : 3,7,12
+c6 : 4,8,12
+c7 : 4,14,15
+c8 : 4,5,17
+c9 : 1,13,17
+c10 : 10,12,13
+c11 : 2,4,12
+c12 : 9,13,15
+c13 : 1,6,8
+c14 : 2,5,7
+c15 : 3,7,13
+c16 : 2,10,12
+c17 : 4,5,10
+c18 : 1,5,10
+c19 : 2,10,13
+c20 : 5,10,16
+c21 : 7,10,14
+c22 : 6,10,15
+c23 : 2,4,16
+c24 : 0,5,17
+c25 : 2,8,11
+c26 : 3,11,12
+c27 : 0,1,9
+c28 : 2,10,12
+c29 : 4,7,13
+c30 : 5,7,8

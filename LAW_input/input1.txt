@@ -1,0 +1,81 @@
+Input 1.
+
+Number of seats:
+510
+
+Parties:
+0 : PSO (Partido Socialista Obrero)
+1 : PRF (Partido Regionalista de Fuenlabrada)
+2 : JA (Juntos Por Alcorcon)
+3 : ACO (Asociación de Comunistas Ociosos)
+4 : GLI (Gamusinos Libres de Impuestos)
+5 : QCT (Queremos Comer Torrijas)
+6 : APF (Adoradores de las Patatas Fritas)
+7 : UPC (Unidas Podremos Comer)
+8 : VOS (Violenta Organizacion a favor del Salmorejo)
+9 : ALI (Alcazar Libre e Independiente)
+10 : UMI (Union de Malas Ideas)
+11 : GTC (me Gusta la Tortilla con Cebolla)
+12 : QLM (Queremos Leer Manga)
+13 : NPM (Nuevo Partido Musical)
+14 : POM (Partido de Odio a las Mates)
+15 : UDyP (Universidades Duras y Peligrosas)
+16 : AEE (Asociacion de Estadisticos Enfurecidos)
+17 : NGP (No nos Gusta la Paella)
+
+Laws:
+c1 : Subir sueldo a profesores
+c2 : Bajar sueldo a profesores
+c3 : Crear mas academias de matematicas
+c4 : Aumentar el pienso a los perros
+c5 : Crear una playa en Madrid
+c6 : Aumentar la cantidad de bibliotecas
+c7 : Legalizar las chuletas
+c8 : Cambiar las siglas RAE por ARE
+c9 : Ilegalizar copiar en examenes
+c10 : Paga extra en navidad
+c11 : Suministro escolar gratuito
+c12 : Los lunes son fiesta
+c13 : Crear mas academias de informatica
+c14 : Ilegalizar la estadistica
+c15 : Crear talleres de torrijas
+c16 : Darle a Fuenlabrada muchas patatas fritas
+c17 : Darle a Fuenlabrada muchas torrijas
+
+Pro:
+c1 : 1,4,8,14,3
+c2 : 5,7,11,15,17
+c3 : 0,13
+c4 : 4,9,13,16,17,2,7,9
+c5 : 1,13,17,3
+c6 : 9,0,8,7
+c7 : 3,6,15,12,13
+c8 : 0,1,12,15,16,17
+c9 : 3,6,9,12,15
+c10 : 12,16
+c11 : 1,6,7,14
+c12 : 2,3,5,8,13
+c13 : 6,8,12,15
+c14 : 0,5,10,15
+c15 : 4,7,2
+c16 : 8,17,6
+c17 : 5,6,11
+
+Against:
+c1 : 2,7,9,11
+c2 : 3,1,8,14,10,6
+c3 : 2,4,7,9
+c4 : 5,6,7,12,14,15
+c5 : 2,5,6,10,12
+c6 : 1,4,12,14,15
+c7 : 0,2,10
+c8 : 2,4,13
+c9 : 4,7,10,13,16
+c10 : 0,4,8
+c11 : 2,5,10
+c12 : 0,7,10,12
+c13 : 0,2,3,4
+c14 : 3,6,9,12
+c15 : 0,10,12,13,16
+c16 : 0,2,4,10,14
+c17 : 12
